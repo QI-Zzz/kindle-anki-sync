@@ -1,0 +1,1 @@
+This is a tool to extract unknown words from Kindle highlights and add them to Anki flashcards.
